@@ -1,0 +1,8 @@
+name: CODPlugin
+version: '1.0-SNAPSHOT'
+main: net.cod.CODPlugin
+authors: [XIAOYI12]
+description: COD Wars 2.0
+commands:
+  tagui:
+    description: Tag plugin gui manage command.

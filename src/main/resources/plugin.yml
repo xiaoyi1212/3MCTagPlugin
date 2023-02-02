@@ -1,0 +1,8 @@
+name: CODPlugin
+version: '${project.version}'
+main: net.cod.CODPlugin
+authors: [XIAOYI12,yazi_au]
+description: COD Wars 2.0
+commands:
+  tagui:
+    description: Tag plugin gui manage command.

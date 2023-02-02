@@ -1,0 +1,10 @@
+net\cod\listener\InventoryClickListener.class
+net\cod\command\GUIManage.class
+net\cod\CODPlugin.class
+net\cod\listener\ChatListener.class
+net\cod\command\PlayerManage.class
+net\cod\gui\TagGui.class
+net\cod\PlayerData.class
+net\cod\gui\ShopGUI.class
+net\cod\Manager.class
+net\cod\gui\BasicGUI.class
